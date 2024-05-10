@@ -292,7 +292,9 @@ footer{
     .menu-hamburguesa:checked + .nav-menu{
         left:0%
     }
-    
+    .nav ul li{
+        line-height: 0px;
+    }
     .nav ul li a {
         font-size: 18px;
         padding:10px
@@ -333,22 +335,9 @@ footer{
   .imagenizq{
      width: 70%;
      margin: auto;
-     
-     
-      
-  }
-  .mercadopago, .transferencia{
-      width: 30%;
-      padding: 20px 50px 10px 50px;
-      border-radius: 4em;
-      margin: 10px auto;
-  }
-  .mercadopago img{
-      width: 80%;
-  }
-  .transferencia img{
-      width: 30%;
-  }
+    }
+    
+  
   h3{
       font-size: 18px;
   }
@@ -390,12 +379,10 @@ footer{
     margin-left: 10%;
       
   }
-  .aporte h1{
-      font-size: 20px;
+  .manos{
+    height: auto;
   }
-  .aporte p{
-      font-size: 12px;
-  }
+  
   h3{
       font-size: 16px;
   }
@@ -409,6 +396,6 @@ footer{
   
   
   
-}  
+}
 
 
