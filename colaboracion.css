@@ -336,7 +336,12 @@ footer{
     .fotoportada{
         margin-top: 5%;
     }
-    
+    .mercadopago, .transferencia{
+        
+        padding: 20px 40px 10px 40px;
+        
+        margin: 10px auto;
+    }
     
     
 }  
