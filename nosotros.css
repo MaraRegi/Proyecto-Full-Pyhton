@@ -348,15 +348,15 @@ footer{
   } 
   
   .rrss{
-      display:none;
-  }
-  .rrss-iconos{
-      display: flex;
-      font-size: 1.3em;
-  }
-  .footer-logo img{
-      max-width: 15vh;
-  }
+    display:none;
+}
+.rrss-iconos{
+    display: flex;
+    font-size: 1.3em;
+}
+.footer-logo img{
+    max-width: 15vh;
+}
   
   
 }  
