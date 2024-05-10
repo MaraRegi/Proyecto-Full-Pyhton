@@ -270,7 +270,7 @@ footer{
         
     }
     .mercadopago, .transferencia{
-        width: 30%;
+        /*width: 30%;*/
         padding: 20px 50px 10px 50px;
         border-radius: 4em;
         margin: 10px auto;
